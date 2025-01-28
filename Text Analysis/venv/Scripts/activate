@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\itspr\Desktop\GitHub_Projects\Mental-Health-Detection-with-Multimodal-AI\venv"
+VIRTUAL_ENV="C:\GitHub_PROJECTS\Mental-Health-Detection-Multimodal-Text-and-Speech-\Text Analysis\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

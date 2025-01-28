@@ -53,7 +53,7 @@ def load_emotion_model():
 
 def main_interface():
     """Core application interface"""
-    st.title("AI Mental Health Analysis")
+    st.title("Mental Health Analysis")
     
     with st.sidebar:
         st.markdown("""
@@ -63,7 +63,7 @@ def main_interface():
         3. Review insights
         """)
         st.markdown("---")
-        st.caption("v1.0 | Ethical AI Framework")
+        st.caption("v1.0 | Prasad Somvanshi")
 
     # Input Section
     input_method = st.radio(
@@ -122,7 +122,6 @@ def main_interface():
                     </div>
                     """, unsafe_allow_html=True)
 
-        # Ethical Safeguards
         st.markdown("---")
         st.warning("""
         **Important Notice**  
