@@ -1,2 +1,6 @@
-**/venv/Lib/site-packages/torch/lib/dnnl.lib
-**/venv/Lib/site-packages/torch/lib/torch_cpu.dll
+**Text-Analysis/venv/Lib/site-packages/torch/lib/dnnl.lib
+**Text-Analysis/venv/Lib/site-packages/torch/lib/torch_cpu.dll
+**Audio-Analysis/venv/Lib/site-packages/torch/lib/dnnl.lib
+**Audio-Analysis/venv/Lib/site-packages/torch/lib/torch_cpu.dll
+**Speech-Text-Analysis/venv/Lib/site-packages/torch/lib/dnnl.lib
+**Speech-Text-Analysis/venv/Lib/site-packages/torch/lib/torch_cpu.dll
