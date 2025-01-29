@@ -4,3 +4,51 @@
 **Audio-Analysis/venv/Lib/site-packages/torch/lib/torch_cpu.dll
 **Speech-Text-Analysis/venv/Lib/site-packages/torch/lib/dnnl.lib
 **Speech-Text-Analysis/venv/Lib/site-packages/torch/lib/torch_cpu.dll
+
+venv/
+Audio-Analysis/venv/
+
+venv/
+Text-Analysis/venv/
+
+venv/
+Speech-Text-Analysis/venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+Audio-Analysis/venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Local development
+.env
+.env.local
