@@ -28,7 +28,7 @@
   -  Pattern visualization
 - **Clinical Support**
   -  Exportable reports
-  - ⏱ Session history
+  -  Session history
 
 ---
 
