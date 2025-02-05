@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Mental Health Insights Analyzer
+# Mental Health Analyzer
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Web_UI-Streamlit-FF4B4B)](https://streamlit.io)
@@ -20,15 +20,15 @@
 
 ## 🌟 Key Features
 - **Dual Input Modes**
-  - 📝 Analyze text documents
-  - 🎙️ Process speech recordings
+  -  Analyze text documents
+  -  Process speech recordings
 - **AI Insights**
-  - 😊 Emotion detection
-  - 📈 Stress/Anxiety indicators
-  - 🔍 Pattern visualization
+  -  Emotion detection
+  -  Stress/Anxiety indicators
+  -  Pattern visualization
 - **Clinical Support**
-  - 📋 Exportable reports
-  - ⏱️ Session history
+  -  Exportable reports
+  - ⏱ Session history
 
 ---
 
@@ -88,5 +88,5 @@ This tool provides preliminary insights only - not medical diagnoses.
 
 <div align="center">
 📧 Contact: itsprasadsomvanshi@email.com  
-  🐛 [Report Issues](https://github.com/Prasaderp/Mental-Health-Detection-Multimodal-Text-and-Speech-/issues)  
+   [Report Issues](https://github.com/Prasaderp/Mental-Health-Detection-Multimodal-Text-and-Speech-/issues)  
 </div>
